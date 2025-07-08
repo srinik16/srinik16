@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @srinik16
-- 👀 I’m interested in |O365|+|Azure|+|AI|
-- 🌱 I’m currently learning AI
+- 👋 Hi, I’m Srini
+- 👀 Interested and specialized in |Azure|+|AI|+|SharePoint|+|Power Platform|+|Dynamics 365|
+- 🧠 Currently diving deep into the fascinating world of Artificial Intelligence (GenAI, RAG, Agentic)
 - 📫 srini-dot-k16-at-gmail-dot-com
 
 <!---
